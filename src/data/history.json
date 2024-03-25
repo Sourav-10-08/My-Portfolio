@@ -1,0 +1,22 @@
+[
+  
+  {
+    "role": "Coding Instructor",
+    "organisation": "BrightChamps",
+    "startDate": "Sep, 2022",
+    "endDate": "Present",
+    "experiences": ["Trained and mentored 40+ students fundamentals of programming in Javascript, Python, Web development, Game and App development with JSON, API's , firebase etc. "],
+    "imageSrc": "history/brightchamps.png"
+  },
+  {
+    "role": "Software Engineer",
+
+    "organisation": " Capgemini Technology Services India Limited ",
+    "startDate": "Apr, 2022",
+    "endDate": "Sep, 2022",
+    "experiences": [
+      "Assigned to a Project Passport Issuer and Online Test Management in developing application using MERN Stack.", " Responsible for handling the frontend and backend for various projects.", " Experience in developing various websites using HTML, CSS, Javascript and React."
+    ],
+    "imageSrc": "history/capgemini.png"
+  }
+]
