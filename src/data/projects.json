@@ -1,24 +1,24 @@
 [
   {
-    "title": "Project A",
+    "title": "Chat App",
+    "imageSrc": "projects/snappy (1).png",
+    "description": "A realtime chat app with react, node.js and socket.io with mongodb and express. ",
+    "skills": ["React", "Express", "Node", "Socket.io"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sourav-10-08/ChatApp"
+  },
+  {
+    "title": "Passport Issuer",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project made to apply for the passport for new user",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Online Test Management",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project made to manage online test.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
